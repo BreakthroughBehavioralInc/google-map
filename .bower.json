@@ -42,7 +42,7 @@
     "branch": "add-label-to-marker",
     "commit": "2ac56575d7a0dbb3595766b8ce36e7ad0760d1fa"
   },
-  "_source": "https://github.com/yordis/google-map.git",
+  "_source": "git@github.com:BreakthroughBehavioralInc/google-map.git",
   "_target": "add-label-to-marker",
   "_originalSource": "yordis/google-map"
 }
